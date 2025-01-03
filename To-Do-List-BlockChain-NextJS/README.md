@@ -1,6 +1,6 @@
-# Decentralized Voting Application using NextJS
+# Decentralized To-Do using NextJS
 
-This is a demo application to implement voting in solidity smart contract and backend API in NextJS. 
+This is a demo application to implement daily tasks in solidity smart contract and backend API in NextJS. 
 
 
 
